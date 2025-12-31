@@ -2,6 +2,8 @@
 
 一個使用原生 PHP、MySQL、HTML、CSS 和 JavaScript 開發的全功能記事本應用程式。
 
+![系統畫面](./screenShot.png)
+
 ## ✨ 功能特色
 
 ### 使用者功能
